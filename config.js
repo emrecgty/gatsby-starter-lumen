@@ -30,21 +30,21 @@ module.exports = {
     bio: 'Pathologist, coder, AI enthusiast',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: 'dr.emre.cgty',
+      telegram: '',
+      twitter: 'emrecgty',
+      github: 'emrecgty',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'emrecgty',
+      instagram: 'dremrecgty',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: '',
+      medium: 'emrecgty',
     }
   }
 };
